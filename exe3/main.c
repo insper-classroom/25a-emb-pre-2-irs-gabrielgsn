@@ -41,10 +41,10 @@ int main() {
 
     if(flag){
       if(btn_color){
-        printf("green \n");
+        printf("fall green \n");
       }
       else{
-        printf("red \n");
+        printf("fall red \n");
       }
       flag = 0;
     }
